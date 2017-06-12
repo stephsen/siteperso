@@ -1,0 +1,25 @@
+{
+  "name": "myblog",
+  "description": "blog et site perso",
+  "main": "index.js",
+  "authors": [
+    "stephsen"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "jquery": "^2.2.2",
+    "angular": "^1.5.6",
+    "angular-route": "^1.5.6",
+    "bootstrap": "^3.3.6"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/vendor/",
+    "test",
+    "tests",
+    ".*"
+  ]
+}
